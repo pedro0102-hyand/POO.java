@@ -1,0 +1,1 @@
+Este repositorio, tem como objetivo aramazenar os programas realizados em Java para a realizacao de exerciicos academicos da disciplina de Programacao Orientada a Objetos, do terceiro periodo do curso de Ciencia da Computacao na UFRRJ.
